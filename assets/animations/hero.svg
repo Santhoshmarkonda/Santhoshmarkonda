@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+<style>
+.t{font:800 42px Arial;fill:#f0f6fc}.s{font:16px Arial;fill:#8b949e}
+.a{fill:none;stroke:#58A6FF;stroke-width:2;stroke-dasharray:8 10;animation:d 12s linear infinite}
+.b{fill:#58A6FF;animation:p 2.4s ease-in-out infinite}
+@keyframes d{{to{{stroke-dashoffset:-180}}}}
+@keyframes p{{0%,100%{{opacity:.35;transform:scale(1)}}50%{{opacity:1;transform:scale(1.35)}}}}
+</style>
+<rect width="900" height="180" rx="28" fill="#0d1117"/>
+<path class="a" d="M35 145 C180 30 270 170 410 55 S650 30 865 125"/>
+<circle class="b" cx="410" cy="55" r="6"/>
+<text class="t" x="45" y="72">MARKONDA SANTHOSH KUMAR</text>
+<text class="s" x="47" y="103">Java Backend Developer • Spring Boot • React • GenAI</text>
+<text class="s" x="47" y="129">Building clean APIs, useful products and scalable systems.</text>
+</svg>

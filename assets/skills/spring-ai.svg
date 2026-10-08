@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+<style>
+.card{fill:#0d1117;stroke:#30363d;stroke-width:1.5;transition:.35s}
+.icon{transform-origin:90px 70px;transition:transform .7s cubic-bezier(.2,.8,.2,1)}
+.card:hover{stroke:#6DB33F;filter:drop-shadow(0 0 10px #6DB33F55)}
+.card:hover .icon{transform:rotateY(360deg) scale(1.12)}
+.title{font:700 16px Arial;fill:#f0f6fc}
+.sub{font:12px Arial;fill:#8b949e}
+</style>
+<rect class="card" x="3" y="3" width="174" height="174" rx="22"/>
+<g class="icon">
+<circle cx="90" cy="70" r="43" fill="#6DB33F18" stroke="#6DB33F" stroke-width="2"/>
+<text x="90" y="82" text-anchor="middle" font-size="38">AI</text>
+</g>
+<text class="title" x="90" y="132" text-anchor="middle">Spring AI</text>
+<text class="sub" x="90" y="153" text-anchor="middle">LLM Apps</text>
+</svg>

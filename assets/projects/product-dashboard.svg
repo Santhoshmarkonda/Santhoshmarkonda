@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+<style>
+.bg{fill:#0d1117;stroke:#30363d;stroke-width:2;transition:.4s}
+.glow{opacity:.25;filter:blur(18px)}
+.badge{fill:#58A6FF20;stroke:#58A6FF80}
+.h{font:700 28px Arial;fill:#f0f6fc}
+.p{font:14px Arial;fill:#8b949e}
+.num{font:700 70px Arial;fill:#58A6FF22}
+.box{transition:transform .4s}
+.bg:hover{stroke:#58A6FF;filter:drop-shadow(0 0 16px #58A6FF44)}
+.bg:hover .box{transform:translateX(10px)}
+</style>
+<rect class="glow" x="35" y="30" width="690" height="240" rx="28" fill="#58A6FF"/>
+<rect class="bg" x="20" y="15" width="720" height="270" rx="28"/>
+<text class="num" x="55" y="92">02</text>
+<g class="box">
+<rect class="badge" x="55" y="112" width="150" height="34" rx="17"/>
+<text class="p" x="130" y="135" text-anchor="middle" fill="#58A6FF">React • REST API</text>
+<text class="h" x="55" y="185">Product Availability Dashboard</text>
+<text class="p" x="55" y="214">Interactive • Responsive • API-driven</text>
+<text class="p" x="55" y="240">Hover the card for a subtle motion effect.</text>
+</g>
+</svg>
