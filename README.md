@@ -11,18 +11,18 @@ with Java, Spring Boot and React.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=520&height=34&lines=Java+%C2%B7+Spring+Boot+%C2%B7+REST+APIs;React+%C2%B7+JavaScript+%C2%B7+SQL;200%2B+LeetCode+Problems+Solved;Building+Full+Stack+Applications" alt="Java · Spring Boot · REST APIs"/>
 </a>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/santhosh-markonda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Markonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Santhoshmarkonda">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Santhoshmarkonda-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/santhosh_2305/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=58A6FF" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Santhosh_2305-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:santhoshmarkonda786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -174,21 +174,18 @@ I'm looking for opportunities in **Java Full Stack Development** and **Software 
 
 Open to opportunities in **Java Full Stack Development** and **Software Engineering**.
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/santhosh-markonda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Santhosh%20Markonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/Santhoshmarkonda">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Santhoshmarkonda-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://leetcode.com/u/santhosh_2305/">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=58A6FF" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Santhosh_2305-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
   <a href="mailto:santhoshmarkonda786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
